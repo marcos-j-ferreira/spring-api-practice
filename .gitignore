@@ -1,0 +1,57 @@
+# =======================
+# Diretórios de Build
+# =======================
+/build/
+/.gradle/
+
+# =======================
+# IDEs
+# =======================
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+*.classpath
+*.project
+.settings/
+
+# VSCode
+.vscode/
+
+# =======================
+# Arquivos do Sistema Operacional
+# =======================
+.DS_Store
+Thumbs.db
+
+# =======================
+# Logs e temporários
+# =======================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# =======================
+# Arquivos de ambiente e segurança
+# =======================
+.env
+*.env
+*.key
+*.pem
+*.crt
+
+# =======================
+# Arquivos de lock/controle
+# =======================
+*.lock
+
+# =======================
+# Arquivos de testes/junk
+# =======================
+test-output/
+out/
+
+#py
+*.py
